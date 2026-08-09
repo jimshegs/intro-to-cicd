@@ -3,3 +3,5 @@ function sayHi(name) {
 }
 
 module.exports = sayHi
+
+// This is a simple function that takes a name as an argument and returns a greeting message. The function is then exported using module.exports so that it can be used in other files.
